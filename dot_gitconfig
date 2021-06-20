@@ -1,0 +1,7 @@
+[user]
+	name = hshirai
+	email = github@hshirai.com
+[color]
+	ui = true
+[init]
+	defaultBranch = master
